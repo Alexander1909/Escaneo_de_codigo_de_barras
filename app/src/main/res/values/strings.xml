@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Escaneo de código de barras</string>
+    <string name="scan_button">Escanear Código</string>
+    <string name="scan_result_placeholder">El resultado aparecerá aquí</string>
+    <string name="scan_result_prefix">Resultado: %1$s</string>
+    <string name="scan_cancelled">Escaneo cancelado</string>
+    <string name="scan_error">Error: %1$s</string>
+</resources>
